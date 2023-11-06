@@ -20,5 +20,7 @@
 
 8. Git Restore <file> - To delete all changes from the staging area to be committed. At times if developer writes the code 
 			which is not useful then at that time they can use this instead of manully deleting codes 
+			git restore work for working area where you can do trial and error with code once sure then comit those
+			changes 
 
 
