@@ -1,0 +1,22 @@
+
+
+1. Working Area – Local system. files which are untracked are part of the working area. 
+
+2. Staging Area – This area is used to create the version of files. This is the area where Git will know what changes will be done from last version to the new version. 
+
+3. Files to move from working area to Staging area – Git Add <file name> 
+	Files to move from Staging area to working area – Git -rm cached <file name>
+	(At times might be possible we get to know changes are not proper and hence move back those files from Staging area 	to working and make required changes) 
+
+4. Repository Area – All files with previous registered versions. Files within this area git manage the version history.
+
+5. git add <filename> - move files from working area to staging area  
+
+6. Git commit -m “message” move files from Staging area to Local Repository area 
+	Every commit is a version. It captures a snapshot of the projects stage changes 
+
+7. 
+	
+
+7. Git log – To see all the commits. If you want to exit out of Git log from press “q” 
+
