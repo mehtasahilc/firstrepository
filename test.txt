@@ -23,4 +23,6 @@
 			git restore work for working area where you can do trial and error with code once sure then comit those
 			changes 
 
+9. git diff commit ID - This will help you understand / track what changes have been done from previous commit 
+
 
