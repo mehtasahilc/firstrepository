@@ -15,8 +15,10 @@
 6. Git commit -m “message” move files from Staging area to Local Repository area 
 	Every commit is a version. It captures a snapshot of the projects stage changes 
 
-7. 
+7. Git log – To see all the commits. If you want to exit out of Git log from press “q” 
 	
 
-7. Git log – To see all the commits. If you want to exit out of Git log from press “q” 
+8. Git Restore <file> - To delete all changes from the staging area to be committed. At times if developer writes the code 
+			which is not useful then at that time they can use this instead of manully deleting codes 
+
 
